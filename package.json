@@ -51,7 +51,7 @@
     "vuepress-plugin-check-md/check-md": "https://github.com/bidoubiwa/check-md#add_ignore_pattern"
   },
   "devDependencies": {
-    "vue-eslint-parser": "^7.10.0",
+    "vue-eslint-parser": "^8.1.0",
     "babel-eslint": "^10.1.0",
     "bent": "^7.3.12",
     "eslint": "^7.25.0",
